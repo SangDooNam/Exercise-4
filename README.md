@@ -1,4 +1,4 @@
 # A short biopraphy
-  -Name : SangDoo Nam
-  -Nationality : South korea
-  -Favourite Food : Rice
+  - Name : SangDoo Nam
+  - Nationality : South korea
+  - Favourite Food : Rice
